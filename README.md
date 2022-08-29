@@ -1,6 +1,6 @@
 # ErtAngularBookSellerFrontend
 
-Backend Project with Java Spring Boot: [https://github.com/barisertugrul/spring-boot-book-seller-learning-edition(https://github.com/barisertugrul/spring-boot-book-seller-learning-edition)]
+Backend Project with Java Spring Boot: [https://github.com/barisertugrul/spring-boot-book-seller-learning-edition](https://github.com/barisertugrul/spring-boot-book-seller-learning-edition)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
