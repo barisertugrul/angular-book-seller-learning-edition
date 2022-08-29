@@ -1,5 +1,9 @@
 # ErtAngularBookSellerFrontend
 
+Full Stack Application Development Course Learning Project with Angular and Spring Boot
+ 
+ Course: [https://www.udemy.com/course/angular-ve-spring-boot-ile-full-stack-uygulama-gelistirme by Şenol Ataç](https://www.udemy.com/course/angular-ve-spring-boot-ile-full-stack-uygulama-gelistirme)
+
 Backend Project with Java Spring Boot: [https://github.com/barisertugrul/spring-boot-book-seller-learning-edition](https://github.com/barisertugrul/spring-boot-book-seller-learning-edition)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
